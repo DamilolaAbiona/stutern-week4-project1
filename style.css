@@ -1,0 +1,22 @@
+h1 {
+    
+    font-style: Bold;
+    font-size: 18px;
+}
+.first-section p {
+    font-size: 14px;
+    color: green;
+    
+}
+
+.second-section p {
+    font-size: 14px;
+    color: red;
+    
+}
+
+.third-section p {
+    font-size: 14px;
+    color: blue;
+    
+}
